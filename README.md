@@ -12,3 +12,10 @@
     <a href="https://github.com/vini-garcia" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/vini--garcia%20-%20white?logo=github&logoColor=white&labelColor=black&color=black"></a>
     <a href="https://www.linkedin.com/in/vini-garcia/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/vini--garcia%20-%20white?logo=linkedin&logoColor=white&color=0077B5"></a>
 </p>
+
+<table align="right">
+    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
+    <r><d><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★☆</a></d></r>
+    <tr><td><p><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Portuguese ★★★</p></td></tr>
+    <tr><td><p><img src="https://github.com/milaan9/milaan9/blob/main/197571.svg" height="15"> German ★☆☆</p></td></tr>
+</table>
