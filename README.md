@@ -16,6 +16,6 @@
 <table align="right">
     <tr><td><img src="./Flags/languages.svg" width="25"> Languages</a></td></tr>
     <tr><td><p><img src="./Flags/USA.svg" height="15"> English ★★☆</p></td></tr>
-    <tr><td><p><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Portuguese ★★★</p></td></tr>
+    <tr><td><p><img src="./Flags/brazil.svg" height="15"> Portuguese ★★★</p></td></tr>
     <tr><td><p><img src="./Flags/germany.svg" height="15"> German ★☆☆</p></td></tr>
 </table>
