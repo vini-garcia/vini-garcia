@@ -1,12 +1,12 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Nice to see you </h1>
+<h1 align="left"> <img src="./assets/blob-sunglasses.gif" width="36"/>Hey! Nice to see you </h1>
+
+<h3 align="left"> 
+    <img src="./assets/hvRJCLFzcasrR4ia7z.gif" width="21"></a> Hi, I'm Vinicius Garcia. I am a software
+development enthusiast.</h3>
 
 <!-- <p align="center">
     <img src="https://readme-jokes.vercel.app/api" alt="vini-garcia"/>
 </p> -->
-
-<h3 align="center"> 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a> Hi, I'm Vinicius Garcia. <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
-</h3>
 
 <p align="center"> 
     <a href="https://github.com/vini-garcia" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/vini--garcia%20-%20white?logo=github&logoColor=white&labelColor=black&color=black"></a>
@@ -14,12 +14,12 @@
 </p>
 
 <table align="right">
-    <tr><td><img src="./Flags/languages.svg" width="25"> Languages</a></td></tr>
-    <tr><td><p><img src="./Flags/USA.svg" height="15"> English ★★☆</p></td></tr>
-    <tr><td><p><img src="./Flags/brazil.png" height="15"> Portuguese ★★★</p></td></tr>
-    <tr><td><p><img src="./Flags/italy.png" height="15"> Italian ★★☆</p></td></tr>
-    <tr><td><p><img src="./Flags/spain.png" height="15"> Spanish ★☆☆</p></td></tr>
-    <tr><td><p><img src="./Flags/germany.svg" height="15"> German ★☆☆</p></td></tr>
+    <tr><td><img src="./flags/languages.svg" width="25"> Languages</a></td></tr>
+    <tr><td><p><img src="./flags/USA.svg" height="15"> English ★★☆</p></td></tr>
+    <tr><td><p><img src="./flags/brazil.png" height="15"> Portuguese ★★★</p></td></tr>
+    <tr><td><p><img src="./flags/italy.png" height="15"> Italian ★★☆</p></td></tr>
+    <tr><td><p><img src="./flags/spain.png" height="15"> Spanish ★☆☆</p></td></tr>
+    <tr><td><p><img src="./flags/germany.svg" height="15"> German ★☆☆</p></td></tr>
 </table>
 
 ##### NOW
@@ -43,8 +43,10 @@
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3> 
 <p align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/vini-garcia"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://www.linkedin.com/in/vini-garcia" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
     <a href="https://www.instagram.com/devvinigarcia" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
     <a href="https://www.facebook.com/devvinigarcia" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
     <a href="mailto:devvinigarcia@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>
+
+- 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf)
