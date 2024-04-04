@@ -17,5 +17,7 @@
     <tr><td><img src="./Flags/languages.svg" width="25"> Languages</a></td></tr>
     <tr><td><p><img src="./Flags/USA.svg" height="15"> English ★★☆</p></td></tr>
     <tr><td><p><img src="./Flags/brazil.png" height="15"> Portuguese ★★★</p></td></tr>
+    <tr><td><p><img src="./Flags/italy.png" height="15"> Italian ★★☆</p></td></tr>
+    <tr><td><p><img src="./Flags/spain.png" height="15"> Spanish ★☆☆</p></td></tr>
     <tr><td><p><img src="./Flags/germany.svg" height="15"> German ★☆☆</p></td></tr>
 </table>
