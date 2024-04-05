@@ -56,11 +56,12 @@ development enthusiast.</h3>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544984038474)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:devvinigarcia@gmail.com)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vini-garcia&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vini-garcia&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vini-garcia&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=amandadolci&repo=m3-react-furever-homes&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/amandadolci/m3-react-furever-homes) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=amandadolci&repo=m4-kimoveis-api&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/amandadolci/m4-kimoveis-api)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=amandadolci&repo=m5-projeto-final-kanvas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/amandadolci/m5-projeto-final-kanvas)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vini-garcia&repo=Bootcamp-Kenzie-M5&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/vini-garcia/Bootcamp-Kenzie-M5)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vini-garcia&repo=Bootcamp-Kenzie-M4&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/vini-garcia/Bootcamp-Kenzie-M4)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vini-garcia&repo=Bootcamp-Kenzie-M3&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/vini-garcia/Bootcamp-Kenzie-M3)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vini-garcia&repo=Bootcamp-Kenzie-M2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/vini-garcia/Bootcamp-Kenzie-M2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vini-garcia&repo=Bootcamp-Kenzie-M1&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/vini-garcia/Bootcamp-Kenzie-M1)
