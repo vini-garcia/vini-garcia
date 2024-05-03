@@ -1,5 +1,5 @@
 <h1 align="left">Hey! Nice to see you </h1>
-
+<!-- https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md -->
 <table align="right">
     <tr><td><img src="./flags/languages.svg" width="25"> Languages</a></td></tr>
     <tr><td><p><img src="./flags/USA.svg" height="15"> English ★★☆</p></td></tr>
@@ -57,7 +57,7 @@ development enthusiast.</h3>
 
 ## 🔍  Where to find me
 
-[![CV](https://img.shields.io/badge/CV%20-%20black?label=My&labelColor=black)](https://ivory-dolorita-15.tiiny.site/)
+[![CV](https://img.shields.io/badge/CV%20-%20black?label=My&labelColor=black)](https://ivory-dolorita-15.tiiny.site/Mama0112)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vini-garcia/)
 
