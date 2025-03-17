@@ -14,7 +14,7 @@
 development enthusiast.</h3>
 <p>- Certified in Full Stack Web Development at Kenzie Academy Brazil's intensive bootcamp; </p>
 <p>- Went from zero programming knowledge to developing a complex full stack project alone within a year;</p>
-<p>- Dual citizen 🇧🇷 🇮🇹, residing in 🇬🇧;</p>
+<p>- Dual citizen 🇧🇷 🇮🇹</p>
 <p>- Bachelor's degree in law; </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
